@@ -11,9 +11,11 @@
 
 ### 🎨 The Creative Journey
 
-I’ve always been fascinated by how art and technology intersect. I started my journey in Northeast India, where I had the incredible opportunity to pioneer early animation and direct the 2012 animated film *"Hum Badal Gaye"*—a story about a boy, his cat, and animal altruism. 
+I’ve always been fascinated by how art and technology intersect. I started my journey in Northeast India, where I had the incredible opportunity to pioneer early animation and direct the 2012 animated film *"Hum Badal Gaye"*. 
 
-When I'm not keyframing animations or writing scripts, you can usually find me laying down basslines, exploring video game worlds, or writing code to build community tools. 
+My love for visual storytelling eventually led me to work as the Assistant Director on the experimental music video **"Goru Bihu Song"** (blending Assamese folk traditions with EDM), which gained massive global recognition and was officially selected at **over 100 international film festivals** worldwide, including the prestigious 47th Sehsüchte in Germany!
+
+When I'm not keyframing animations or writing scripts, you can usually find me on stage. I am an award-winning bassist who has played and competed with various bands, laying down heavy grooves and recording bass covers on YouTube. And of course, I bring that same creative rhythm to writing code and building community tools!
 
 ### 💻 Current Quests
 - 🛠️ **Building:** Community engagement tools like the **Reddit Raffler App** on Devvit.
