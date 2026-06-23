@@ -47,6 +47,6 @@ When I'm not keyframing animations or writing scripts, you can usually find me l
 ---
 
 <div align="center">
-  <p><em>"Giving to others is one of the most beautiful things we can do in a community. Keep your promises, and stay generous!"</em></p>
+  <p><em>"From rendering frames to compiling code, I believe the best creations happen right where art meets logic."</em></p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12&height=100&section=footer" width="100%" />
 </div>
