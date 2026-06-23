@@ -11,7 +11,7 @@
 
 ### 🎨 The Creative Journey
 
-I’ve always been fascinated by how art and technology intersect. I started my journey in Northeast India, where I had the incredible opportunity to pioneer early animation and direct the 2012 animated film *"Hum Badal Gaye"*. 
+I’ve always been fascinated by how art and technology intersect. I started my journey in Northeast India, where I had the incredible opportunity to pioneer early animation. I directed the 2012 animated film *"Hum Badal Gaye"*, and later directed *"A Blind Dog"*, which holds the historic distinction of being the first 3D animated film from Assam and Northeast India to be officially certified by the CBFC!
 
 My love for visual storytelling eventually led me to work as the Assistant Director on the experimental music video **"Goru Bihu Song"** (blending Assamese folk traditions with EDM), which gained massive global recognition and was officially selected at **over 100 international film festivals** worldwide, including the prestigious 47th Sehsüchte in Germany!
 
