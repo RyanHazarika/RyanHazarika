@@ -4,7 +4,9 @@
 
 <div align="center">
   <h1>Ryan Hazarika</h1>
-  <h3>✨ Animator • Filmmaker • Bassist • Developer ✨</h3>
+  <a href="https://github.com/RyanHazarika">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&height=50&lines=Pioneering+3D+Animation...;Directing+Award-Winning+Films...;Laying+down+Heavy+Bass+Grooves...;Building+Devvit+Communities...;Mastering+the+GitHub+Ecosystem..." alt="Typing SVG" />
+  </a>
   <p><em>Blending pixels, frequencies, and logic to build creative experiences.</em></p>
 </div>
 
