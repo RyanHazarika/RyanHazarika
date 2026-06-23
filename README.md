@@ -32,15 +32,10 @@ When I'm not keyframing animations or writing scripts, you can usually find me l
 
 ---
 
-### 🏆 GitHub Trophies & Stats
+### 🏆 GitHub Stats
 
 *I recently embarked on a quest to master the GitHub ecosystem, hunting down achievements and pushing my coding limits.*
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RyanHazarika&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
-  </a>
-</div>
 
 <br/>
 
