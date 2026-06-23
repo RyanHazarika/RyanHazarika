@@ -4,6 +4,15 @@
 
 ---
 
+### 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RyanHazarika&theme=radical&no-frame=true&margin-w=15&column=7" alt="Ryan's Trophies" />
+  </a>
+</p>
+
+---
+
 ### 🚀 About Me
 I'm a developer and community builder who loves creating tools that bring people together. Most recently, I built the **Reddit Raffler App** on Devvit to help moderators and users run fair, transparent, and exciting giveaways!
 
@@ -26,20 +35,10 @@ I'm a developer and community builder who loves creating tools that bring people
 
 ---
 
-### 🐍 My Contributions Snake
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RyanHazarika/RyanHazarika/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RyanHazarika/RyanHazarika/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RyanHazarika/RyanHazarika/output/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
----
-
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Top Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RyanHazarika&show_icons=true&theme=radium&hide_border=true" alt="Ryan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanHazarika&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
