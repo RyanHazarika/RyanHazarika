@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12&height=250&section=header&text=Ryan%20Hazarika&fontSize=70&fontAlignY=35&animation=twinkling" width="100%" />
 </div>
+
+<div align="center">
   <h3>✨ Animator • Filmmaker • Bassist • Developer ✨</h3>
   <p><em>Blending pixels, frequencies, and logic to build creative experiences.</em></p>
 </div>
