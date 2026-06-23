@@ -1,46 +1,57 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2F80ED&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ryan+Hazarika+👋;Passionate+Community+Builder;Creator+of+Reddit+Raffler;Always+Learning+%26+Creating" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12&height=250&section=header&text=Ryan%20Hazarika&fontSize=70&fontAlignY=35&animation=twinkling" width="100%" />
+</div>
+
+<div align="center">
+  <h3>✨ Animator • Filmmaker • Bassist • Developer ✨</h3>
+  <p><em>Blending pixels, frequencies, and logic to build creative experiences.</em></p>
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🎨 The Creative Journey
+
+I’ve always been fascinated by how art and technology intersect. I started my journey in Northeast India, where I had the incredible opportunity to pioneer early animation and direct the 2012 animated film *"Hum Badal Gaye"*—a story about a boy, his cat, and animal altruism. 
+
+When I'm not keyframing animations or writing scripts, you can usually find me laying down basslines, exploring video game worlds, or writing code to build community tools. 
+
+### 💻 Current Quests
+- 🛠️ **Building:** Community engagement tools like the **Reddit Raffler App** on Devvit.
+- 🎸 **Playing:** Bass covers of everything from classic rock to "Canon in D" on my YouTube Channel.
+- 🌱 **Learning:** Advanced Web Apps, Next.js, and interactive UI design.
+
+---
+
+### 🧰 The Toolkit
+
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=RyanHazarika&theme=radical&no-frame=true&margin-w=15&column=7" alt="Ryan's Trophies" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,nodejs,redis,git,github,ps,pr,ae,blender&perline=13" />
   </a>
 </p>
 
 ---
 
-### 🚀 About Me
-I'm a developer and community builder who loves creating tools that bring people together. Most recently, I built the **Reddit Raffler App** on Devvit to help moderators and users run fair, transparent, and exciting giveaways!
+### 🏆 GitHub Trophies & Stats
 
-- 🔭 I’m currently working on: **Reddit Raffler App**
-- 🌱 I’m currently learning: **Advanced Web Apps & Devvit**
-- 💬 Ask me about: **Community Management, Giveaways, and Cool Tech!**
-- 📫 How to reach me: **ryan.hazarika@gmail.com** or via Reddit DMs.
+*I recently embarked on a quest to master the GitHub ecosystem, hunting down achievements and pushing my coding limits.*
 
----
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=RyanHazarika&theme=dracula&no-frame=true&no-bg=true&margin-w=15" />
+  </a>
+</div>
 
-### 🛠️ Tech Stack & Tools
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RyanHazarika&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanHazarika&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" width="48%" />
+</div>
 
 ---
 
-### 📊 GitHub Stats & Top Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RyanHazarika&show_icons=true&theme=radium&hide_border=true" alt="Ryan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyanHazarika&layout=compact&theme=radium&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <i>Giving to others is one of the most beautiful things we can do in a community. Keep your promises, and stay generous! 💝</i>
-</p>
+<div align="center">
+  <p><em>"Giving to others is one of the most beautiful things we can do in a community. Keep your promises, and stay generous!"</em></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12&height=100&section=footer" width="100%" />
+</div>
